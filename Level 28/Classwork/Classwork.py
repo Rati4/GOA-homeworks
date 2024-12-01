@@ -1,0 +1,5 @@
+question1=input("enter your Name;") 
+question2=int(input("enter number:"))
+for x in range(12)
+print(question1)
+print(question2)
